@@ -7,10 +7,11 @@
   O projeto é um clone do site <a href="https://www.hbomax.com/br/pt">HBO Max</a>, com o intuito de reproduzir a interface, com algumas modificações, aplicando os temas abordados ao longo das aulas de CSS da plataforma da <a href="https://dio.me">Digital Innovation One</a>.
 </p>
 <p align="center">
-  O clone do site HBO Max serve como desafio para os alunos da plataforma testarem seus conhecimentos e colocarem em prática os recursos de HTML e CSS abordados nos cursos.
+  O clone do site HBO Max foi apresentado como desafio de código pela instrutura Michele Ambrosio, presente na formação
+  CSS Web Developer, da Digital Inovation One.
 </p>
 
-<a href="https://micheleambrosio.github.io/hbomax/">
+<a href="https://dmoprates.github.io/hbomax/">
   <img src="assets/images/readme-images/cover-2.png">
 </a>
 
@@ -32,11 +33,9 @@
 - Rodapé com links importantes
 - UI Responsiva
 
-*As features são visuais, não possuindo integração com nenhuma API. O intuito do projeto é reproduzir a interface do site original, com algumas modificações.*
-
 <h2 id="topics">📦 Temas abordados</h2>
 
-O projeto possui como intuito aplicar os conceitos abordados na Trilha de CSS da <a href="https://dio.me">DIO</a>, ministrada pela instrutora <a href="https://github.com/micheleambrosio">Michele Ambrosio</a>.
+O projeto possui como intuito aplicar os conceitos abordados na Trilha de CSS da <a href="https://dio.me">DIO</a>, ministrada pela instrutora Michele Ambrosio.
 
 Recursos CSS presentes no projeto:
 
@@ -52,13 +51,11 @@ Recursos CSS presentes no projeto:
 
 <h2 id="challenges">🏆 Desafio</h2>
 
-Como parte do desafio final da Trilha de CSS, o desenvolvedor deve reproduzir [esse projeto](https://micheleambrosio.github.io/hbomax/), sem realizar uma consulta do código final do site, presente na branch `master` deste repositório.
+Como parte do desafio final da Trilha de CSS, houve a proposta de reproduzir [esse projeto](https://micheleambrosio.github.io/hbomax/), sem realizar uma consulta do código final do site, presente na branch `master` deste repositório.
 
-Para auxiliar na reprodução, utilize a branch `template-desafio`. Faça um fork do projeto em sua conta do GitHub.
+Para auxiliar na reprodução, foi utilizada a branch `template-desafio`.
 
-Dentro da branch `template-desafio`, você encontrará na pasta `assets/images` todos os arquivos de imagens que você irá precisar para utilizar no projeto.
-
-Caso deseje, adicione as variáveis CSS abaixo, que contém todas as cores e gradientes utilizados no projeto:
+Foi adicionado as variáveis CSS abaixo, que contém todas as cores e gradientes utilizados no projeto:
 
 ```css
   :root {
@@ -128,9 +125,9 @@ As fontes utilizadas no projeto foram:
 *Para melhor orientação, assista ao vídeo de instruções do desafio, que está disponibilizado no Módulo 3 da Trilha de CSS.*
 
 
-<h2 id="demo">🌈 Demonstração</h2>
+<h2 id="demo"> Demonstração</h2>
 
-Você pode acessar ao resultado final do projeto [clicando aqui](https://micheleambrosio.github.io/hbomax/).
+Você pode acessar ao resultado final do projeto [clicando aqui](https://dmoprates.github.io/hbomax/).
 
 
 <h2 id="author">💻 Autora</h2>
@@ -141,6 +138,3 @@ Você pode acessar ao resultado final do projeto [clicando aqui](https://michele
 </p>
 <br/><br/>
 <p>
-
----
-⌨️ com ❤️ por [Michele Ambrosio](https://github.com/micheleambrosio) 😊
