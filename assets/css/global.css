@@ -2,22 +2,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;700&display=swap");
 
 :root {
-  --primary-color: #020228;
-  --secondary-color: #ff00e5;
-  --tertiary-color: #b535f6;
+  --primary-color: #040421;
+  --secondary-color: #8b5086;
+  --tertiary-color: #724788;
   --btn-bg-color-gradient: linear-gradient(
     45deg,
-    #9b34ef 0%,
-    #490cb0 20%,
+    #714397 0%,
+    #4b2e7c 20%,
     transparent 50%
   );
   --btn-link-bg-color: #fff;
   --btn-link-color: #000;
-  --card-bg-color: linear-gradient(0deg, transparent, #3b1e63);
+  --card-bg-color: linear-gradient(0deg, transparent, #422e5d);
   --divider-bg-color: linear-gradient(
     90deg,
-    #5516ba,
-    rgba(255, 0, 229, 0.5) 80%
+    #3c275f,
+    rgba(113, 48, 106, 0.5) 80%
   );
   --nav-bg-color: rgba(0, 0, 0, 0.3);
   --text-color: #fff;
@@ -26,7 +26,7 @@
   --form-field-bg-color: rgba(0, 0, 0, 0.2);
   --form-field-border: 1px solid rgba(255, 255, 255, 0.7);
   --form-field-placeholder: rgba(255, 255, 255, 0.7);
-  --form-field-error: rgb(255, 76, 76);
+  --form-field-error: rgb(228, 48, 48);
 
   scroll-behavior: smooth;
 }
